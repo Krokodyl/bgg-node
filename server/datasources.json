@@ -1,0 +1,16 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "bgg-ds": {
+    "host": "127.0.0.1",
+    "port": 27017,
+    "url": "mongodb://localhost:27017/bgg-db",
+    "database": "bgg-db",
+    "password": "",
+    "name": "bgg-ds",
+    "user": "",
+    "connector": "mongodb"
+  }
+}

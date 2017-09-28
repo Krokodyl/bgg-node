@@ -1,0 +1,25 @@
+[{
+	"id":"1",
+	"name":"Orleans",
+	"yearpublished":"2014",
+	"minplayer":"3",
+	"maxplayer":"6",
+	"playingtime":"30",
+	"minplaytime":"30",
+	"maxplaytime":"30",
+	"age":"12",
+	"thumbnail":"thumbnail1",
+	"image":"image1",
+	"categories":[{"category":"cat1","category":"cat2"}],
+	"mechanics":[{"mechanic":"mech1","mechanic":"mech2"}],
+	"families":[{"family":"fam1","family":"fam2"}],
+	"designers":[{"designer":"designer1","designer":"designer2"}],
+	"statistics":{
+		"usersrated":"111",
+		"average":"8.9",
+		"bayesaverage":"7.5",
+		"rank":"88",
+		"averageweight":"2.8"
+	}
+}
+]
